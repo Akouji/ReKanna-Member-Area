@@ -3,11 +3,11 @@
  Simple member area source code for managing theme users.
  
  Fitur Sementara :
- Admin > Manage Versi Theme & Manage User Theme
- Member > Download Theme Update
+ Admin > Manage Versi Theme & Manage User Theme<br>
+ Member > Download Theme Update<br>
  
- to access Admin Dashboard Login via Code : admin
- to access Member Dashboard Login via Code : member
+ to access Admin Dashboard Login via Code : admin<br>
+ to access Member Dashboard Login via Code : member<br>
  
  Just info!
- Re:Kanna merupakan theme blogger bertemakan anime, cocok untuk kamu yang ingin membuat blog fansub/fanshare anime.
+ Re:Kanna merupakan theme blogger bertemakan anime, cocok untuk kamu yang ingin membuat blog fansub/fanshare anime.<br>
