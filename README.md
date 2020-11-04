@@ -1,3 +1,3 @@
-![Screenshot](https://github.com/Akouji/ReKanna-Member-Area/blob/master/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Akouji/ReKanna-Member-Area/main/Screenshot.png)
 # ReKanna-Member-Area
  Simple member area source code for managing theme users.
